@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/OS-Music163_ImGui
+/x64/Release
+/OS-Music163_ImGui/x64
+*.ini
